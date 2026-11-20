@@ -1,0 +1,1 @@
+{"name":"flying-learn-fun","version":"1.0.0","private":true,"scripts":{"build":"python3 scripts/package_game.py"},"devDependencies":{}}
